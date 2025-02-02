@@ -7,7 +7,15 @@
 ## Project Set Up and Installation
 *OPTIONAL:* If your project has any special installation steps, this is where you should put it. To turn this project into a professional portfolio project, you are encouraged to explain how to set up this project in AzureML.
 
+config.json
+conda deps 
+
 ## Dataset
+Davide Chicco, Giuseppe Jurman: Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. BMC Medical Informatics and Decision Making 20, 16 (2020)
+Link to paper: https://doi.org/10.1186/s12911-020-1023-5
+Dataset obtained via Kaggle (https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data) under the CC BY 4.0 License (https://creativecommons.org/licenses/by/4.0/).
+
+TODO: Explain about the data you are using and where you got it from.
 
 ### Overview
 *TODO*: Explain about the data you are using and where you got it from.
